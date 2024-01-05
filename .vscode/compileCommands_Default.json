@@ -1,0 +1,42 @@
+[
+	{
+		"file": "A:\\Unreal Projects\\ToonTanks\\Source\\ToonTanks\\PawnBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\ToonTanks\\Source\\ToonTanks\\PawnBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	}
+]
